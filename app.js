@@ -53,7 +53,7 @@ app.post("/", function(req, res){
     console.log(firstName, lastName, email);
 })
 
-app.post{"/failure", function(req, res){
+app.post("/failure", function(req, res){
     res.redirect("/")
 }}
 app.listen(process.env.PORT || port, function(){
