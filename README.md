@@ -4,4 +4,4 @@ The Newsletter App is a fictional app where individuals can sign up to a maillis
 -MailChimp API
 -Node JS
 
-It also features post requests to the specific APIs, among others. Here is the app [URL="https://floating-temple-79127.herokuapp.com/"]here[/URL]
+It also features post requests to the specific APIs, among others. Here is the app <a href="https://floating-temple-79127.herokuapp.com/">here</a>
